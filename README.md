@@ -39,8 +39,8 @@ To use this project, follow these steps:
 2. Navigate through the website to see the changes made to the codebase.
 
 ### Images
-![Screenshot](./client/images/prompts.png)
-![Screenshot](./images/logo.png)
+![Screenshot](./assets/images/Horiseon.png)
+
 
 ### Contributing
 Contributions to this project are currently not being accepted. If you would like to contribute, please contact me at the email listed below.
