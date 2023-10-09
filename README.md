@@ -10,7 +10,8 @@
 5. [Images](#images)
 6. [Contributing](#contributing)
 7. [Questions](#questions)
-8. [License](#license)
+8. [URL of the deployed application](#url-of-the-deployed-application)
+9. [License](#license)
 
 ### Description
 This project is a code refactor that aims to optimize a client's site for search engines and improve the readability and maintainability of the codebase. The codebase was refactored to meet the following criteria: 
@@ -49,6 +50,9 @@ Contributions to this project are currently not being accepted. If you would lik
 If you have any questions, please contact me:
 - GitHub: [Augustus1110](https://github.com/Augustus1110)
 - Email: donahi22@gmail.com
+
+### URL of the deployed application: 
+https://augustus1110.github.io/Client-Code-Refactor/
 
 ### License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
